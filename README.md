@@ -23,7 +23,7 @@ When it comes to OCR, EasyOCR is by far the most straightforward way to apply Op
 
 Extraction of key information from business cards: company name, cardholder name, designation, contact details, etc.
 
-Storage of extracted data in a MySQL database for easy access and retrieval.
+Storage of extracted data in a SQLlite3 database for easy access and retrieval.
 
 GUI built with Streamlit for a user-friendly interface.
 
@@ -45,6 +45,6 @@ After the transformation process, the data is stored in the SQL database.
 ## Acknowledgements
 * EasyOCR Documentation
 * Python pandas documentation
-* Python sql-connector documentation
+* SQLITE3 documentation
 * Streamlit Documentation
 
